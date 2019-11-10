@@ -19,16 +19,16 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\SortCPP2\InsertionSort.h" />
-    <ClInclude Include="..\..\SortCPP2\Mas4Sort.h" />
-    <ClInclude Include="..\..\SortCPP2\SortBenchmark.h" />
-    <ClInclude Include="..\..\SortCPP2\SortBenchmarkSpec.h" />
-    <ClInclude Include="..\..\SortCPP2\SortItem.h" />
+    <ClInclude Include="..\..\SortCPP\InsertionSort.h" />
+    <ClInclude Include="..\..\SortCPP\Mas4Sort.h" />
+    <ClInclude Include="..\..\SortCPP\SortBenchmark.h" />
+    <ClInclude Include="..\..\SortCPP\SortBenchmarkSpec.h" />
+    <ClInclude Include="..\..\SortCPP\SortItem.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\SortCPP2\Mas4Sort.cpp" />
-    <ClCompile Include="..\..\SortCPP2\SortBenchmark.cpp" />
-    <ClCompile Include="..\..\SortCPP2\SortItem.cpp" />
+    <ClCompile Include="..\..\SortCPP\Mas4Sort.cpp" />
+    <ClCompile Include="..\..\SortCPP\SortBenchmark.cpp" />
+    <ClCompile Include="..\..\SortCPP\SortItem.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
